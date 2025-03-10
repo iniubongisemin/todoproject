@@ -27,7 +27,7 @@ SECRET_KEY = "django-insecure-jnb)*x-hh!isxb=3j_dm7tqmoolr!v+!y=+hp2yn28-0=99w7n
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["google-oauth-test-app.onrender.com"]
 
 
 # Application definition
