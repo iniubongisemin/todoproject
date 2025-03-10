@@ -145,7 +145,6 @@ media/
 dump.rdb
 service_account.json
 myvenv
-requirements.txt
 scopes.txt
 gmail_oauth_credentials.json
 .env
